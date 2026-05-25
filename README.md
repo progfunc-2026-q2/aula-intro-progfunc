@@ -4,9 +4,6 @@ Este repositório contém exemplos de programação funcional e concorrente em J
 
 ## Conteúdo do Projeto
 
-- **ConcurrentSumDemo.java**: Demonstra uma condição de corrida ao somar números de 1 a 10.000 usando duas threads sem sincronização.
-- **ConcurrentSumImperativeSolution.java**: Solução imperativa e thread-safe para o problema acima, utilizando sincronização com `synchronized`.
-- **ConcurrentSumDeclarativeDemo.java**: Solução declarativa e thread-safe usando streams e `FutureTask` para somar números em paralelo.
 - **FirstClassFunctions.java**: Demonstra funções de primeira classe e interfaces funcionais customizadas em Java.
 - **HigherOrderFunctions.java**: Exemplos de funções de ordem superior, como `map` e geração dinâmica de operações aritméticas.
 
